@@ -19,4 +19,4 @@ console.log("🚀 ~ shift:", data);
 //unshift = เพิ่มสมาชิกด้านหน้า
 data.unshift(...[999,888,777]);
 console.log("🚀 ~ unshift:", data);
-console.log("Count of Array: ",data.length)
+console.log("length: ",data.length)
